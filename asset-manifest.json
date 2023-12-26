@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/waqf-survey/static/css/main.b2cb9097.css",
+    "main.js": "/waqf-survey/static/js/main.503d8a16.js",
+    "static/media/Waqf_board_400x400.jpg": "/waqf-survey/static/media/Waqf_board_400x400.d1a6043538c19dbfc312.jpg",
+    "index.html": "/waqf-survey/index.html",
+    "main.b2cb9097.css.map": "/waqf-survey/static/css/main.b2cb9097.css.map",
+    "main.503d8a16.js.map": "/waqf-survey/static/js/main.503d8a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2cb9097.css",
+    "static/js/main.503d8a16.js"
+  ]
+}
